@@ -1,0 +1,20 @@
+{
+  "preset1": {
+    "message": "# @everyone have a good day",
+    "new_server_name": ".gg/7tus9SqW",
+    "change_notification": true,
+    "add_admin": true,
+    "channel_name": "higherup-chat",
+    "text_channel_amount": 40,
+    "voice_channel_amount": 1
+  },
+  "preset2": {
+    "message": "@everyone https://discord.gg/tkVfMhzK",
+    "new_server_name": "discord.gg/tkVfMhzK",
+    "change_notification": true,
+    "add_admin": false,
+    "channel_name": "staff-chat",
+    "text_channel_amount": 40,
+    "voice_channel_amount": 1
+  }
+}
